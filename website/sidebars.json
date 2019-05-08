@@ -1,0 +1,20 @@
+{
+  "docs": {
+    "About Engineering Handbook":["welcome"],
+    "Before you code":[
+      "before-you-code/planning",
+      "before-you-code/requirements",
+      "before-you-code/architecture",
+      "before-you-code/patterns"
+    ],
+    "Writing code":[
+      "writing-code/TDD",
+      "writing-code/testing-frameworks",
+      "writing-code/branching-model",
+      "writing-code/coding-patterns",
+      "writing-code/folder-structure",
+      "writing-code/CICD"
+    ]
+
+  }
+}
