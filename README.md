@@ -6,6 +6,4 @@ npm start
 ```
 Click on 'Handbook' hyperlink from top right when `http://localhost:3000/` appears
 
-# Full Documentation
-
-Full documentation can be found on the [website](https://docusaurus.io/).
+This documentation was built using [docusaurus.io](https://docusaurus.io/).
