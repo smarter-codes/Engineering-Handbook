@@ -14,7 +14,11 @@
       "writing-code/coding-patterns",
       "writing-code/folder-structure",
       "writing-code/CICD"
+    ],
+    "Issue tracker":[
+      "issue-tracker/statuses"
     ]
+
 
   }
 }
